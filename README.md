@@ -34,3 +34,11 @@ Liste = [pierre, marc, paul, jacques].
 2.Recherchez tous les parents de Sophie :
 findall(X, parent(X,sophie), Liste).
 Liste = [marc].
+
+
+EXERCICE 8 :
+    1. Marc est-il l'oncle de Paul ?
+    Non car ils ne sont pas lié vus qu'on ne sait pas qui est le pere de pierre, et il faudrait que pierre et marc soient  frère donc avec le même père
+
+  2. Quels sont les oncles de Sophie ?
+     Pareil pour Sophie elle n'a pas d'oncle vus que son père Marc n'a pas de frère 
