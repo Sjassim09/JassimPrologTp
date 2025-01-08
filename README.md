@@ -10,7 +10,13 @@ Exo1 :
 
 Exercice 2: 
     1. Qui est le grand-parent de Paul ?
-      C'est personne
+      Il n'a pas de grand parent
+      grandparent(X,paul). 
+      false
        
    2. Jacques est-il grand-parent de Sophie ?
     Oui il est le grand parent
+
+Exercice 3 :
+1. Paul a-t-il des frères ou des sœurs ?
+   Non il n'a pas de frère ou de soeur
