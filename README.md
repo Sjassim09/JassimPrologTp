@@ -41,4 +41,5 @@ EXERCICE 8 :
     Non car ils ne sont pas lié vus qu'on ne sait pas qui est le pere de pierre, et il faudrait que pierre et marc soient  frère donc avec le même père
 
   2. Quels sont les oncles de Sophie ?
-     Pareil pour Sophie elle n'a pas d'oncle vus que son père Marc n'a pas de frère 
+      oncle(X,sophie).
+      X = marc 
