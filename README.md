@@ -7,3 +7,10 @@ Exo1 :
 
 2 Marc a-t-il des enfants ?
 - Oui Sophie
+
+Exercice 2: 
+    1. Qui est le grand-parent de Paul ?
+      C'est personne
+       
+   2. Jacques est-il grand-parent de Sophie ?
+    Oui il est le grand parent
