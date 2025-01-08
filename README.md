@@ -44,4 +44,10 @@ EXERCICE 8 :
 
   2. Quels sont les oncles de Sophie ?
       oncle(X,sophie).
-      X = marc 
+      X = marc
+
+Exercice 8 :
+1. Interrogez la base de connaissances pour trouver les cousins de Paul :
+ cousin(X,paul).
+false.
+
