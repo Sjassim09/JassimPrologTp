@@ -39,6 +39,8 @@ Liste = [marc].
 EXERCICE 8 :
     1. Marc est-il l'oncle de Paul ?
     Non car ils ne sont pas lié vus qu'on ne sait pas qui est le pere de pierre, et il faudrait que pierre et marc soient  frère donc avec le même père
+    oncle(marc,paul).
+    false.
 
   2. Quels sont les oncles de Sophie ?
       oncle(X,sophie).
